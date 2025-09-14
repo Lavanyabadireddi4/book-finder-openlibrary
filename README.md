@@ -12,6 +12,17 @@ Check out the live app here: [Book Finder App](https://book-finder-openlibrary.v
 - View book cover images
 - Load more results dynamically
 
+## How to run locally
+1. `git clone https://github.com/<you>/<repo>.git`
+2. `cd repo`
+3. `npm install`
+4. `npm start`
+5. Open http://localhost:3000
+
+## API used
+- Open Library Search API (https://openlibrary.org/dev/docs/api/search)
+- Example request used: `https://openlibrary.org/search.json?title={query}&page=1&limit=20`
+
 ## Tech Stack
 
 - React
