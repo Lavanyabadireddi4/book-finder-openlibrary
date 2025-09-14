@@ -22,4 +22,4 @@ Check out the live app here: [Book Finder App](https://book-finder-openlibrary.v
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/book-finder-openlibrary.git
+   git clone https://github.com/<Lavanyabadireddi4>/book-finder-openlibrary.git
